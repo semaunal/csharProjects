@@ -1,0 +1,8 @@
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\bin\Debug\70722.exe.config
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\bin\Debug\70722.exe
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\bin\Debug\70722.pdb
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\obj\Debug\70722.csproj.AssemblyReference.cache
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\obj\Debug\70722.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\obj\Debug\70722.csproj.CoreCompileInputs.cache
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\obj\Debug\70722.exe
+C:\Users\Sema\OneDrive\Desktop\githubProjects\70722\70722\obj\Debug\70722.pdb
